@@ -49,9 +49,11 @@ Customer-churn/
    git clone https://github.com/swarada431/Customer-churn
    
 2.Install dependencies
+
 pip install -r requirements.txt
 
 3.Run the notebook
+
 jupyter notebook "Churn prediction.ipynb"
 
 🙌 Acknowledgments
