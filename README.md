@@ -31,7 +31,6 @@ This project predicts customer churn for a telecom company using **machine learn
 - Real-time churn prediction dashboard.
 
 ## 📁 Repository Structure
-## 📁 Repository Structure
 Customer-churn/
 │
 ├── data/ # Raw and processed data
