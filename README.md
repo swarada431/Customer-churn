@@ -33,6 +33,7 @@ This project predicts customer churn for a telecom company using **machine learn
 ## 📁 Repository Structure
 Customer-churn/
 │
+
 ├── data/ # Raw and processed data
 
 ├── notebooks/ # Jupyter Notebooks (EDA, Model Training)
